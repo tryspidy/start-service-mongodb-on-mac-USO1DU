@@ -1,0 +1,5 @@
+$ brew services list
+Name              Status  User Plist
+mongodb-community stopped      
+$ brew services start mongodb-community
+==> Successfully started `mongodb-community` (label: homebrew.mxcl.mongodb-community)
